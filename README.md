@@ -2,8 +2,6 @@
 
 适用于 **Windows 10 1809 及以上 x64、Windows 11 x64**。下载单个 `AeroLink.exe` 即可使用，无需安装 Python。
 
-**需要使用请添加微信：13022289902。**
-
 ## 开始使用
 
 1. 从 [GitHub Releases](https://github.com/JoeGuys130/AeroLink/releases/latest) 下载 `AeroLink.exe`，放到有写入权限的文件夹，保持原文件名。
@@ -28,3 +26,5 @@
 软件向管理服务报告终端资料、MAC、代理流量和采样域名，供管理员管理账号与线路；不采集网页、聊天内容或完整 URL 路径，客户端不保存登录密码。服务端仍会按请求来源进行登录保护和安全审计。登录页可查看「隐私说明」。
 
 许可证及所需对应源码随 EXE 提供：在软件更新窗口按 `Ctrl+Shift+L` 查看或导出。
+
+需要使用请添加微信：DeveloperFox
