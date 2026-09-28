@@ -2,7 +2,7 @@
 
 AeroLink 用于连接管理员提供的网络线路，支持自动选线、手动切换和账号流量查看。
 
-· 联系微信：`DeveloperFox`
+联系微信：`DeveloperFox`
 
 ## 开始使用
 
