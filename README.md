@@ -2,18 +2,7 @@
 
 AeroLink 用于连接管理员提供的网络线路，支持自动选线、手动切换和账号流量查看。
 
-**[下载客户端](https://github.com/JoeGuys130/AeroLink/releases/tag/AeroLink)** · 联系微信：`DeveloperFox`
-
-## 选择适合电脑的版本
-
-各平台客户端统一放在同一个发布页的 **Assets（附件）** 中，按系统下载对应文件。同一平台如有多个版本，选择版本号最高的一份即可。
-
-| 电脑系统 | 下载文件 |
-| --- | --- |
-| Windows 10 1809 及以上、Windows 11，64 位 | [AeroLink-Win10-x64_1.0.6.exe](https://github.com/JoeGuys130/AeroLink/releases/download/AeroLink/AeroLink-Win10-x64_1.0.6.exe) |
-| Windows 7 SP1，32 位或 64 位 | [AeroLink-Win7-x86_1.0.3.exe](https://github.com/JoeGuys130/AeroLink/releases/download/AeroLink/AeroLink-Win7-x86_1.0.3.exe) |
-
-Win7 的 x86 客户端可用于 32 位和 64 位系统。不同平台独立更新，版本号不必相同；不要在 Win7 上运行 Win10 客户端。下载 EXE 即可，无需安装 Python。页面中的 `Source code` 压缩包不是客户端。
+· 联系微信：`DeveloperFox`
 
 ## 开始使用
 
